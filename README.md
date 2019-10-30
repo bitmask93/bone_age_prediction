@@ -17,8 +17,8 @@ For predicting the gender, Accuracy was used and for predicting the Age MAE(Mean
 ## Conclusions :
 
 Some of the conclusions of the experiment are :
-  1) It is difficult to predict the gender from X-ray images, all the above mentioned models performed poorly for predicting 
-  the gender.
+  1) It is difficult to predict the gender from X-ray images, the models performed very poorly for this task.
+  
   2) Using some preprocessing on the images to enhance the joints in the bones helped to reduce the Mean Absolute Error,
   So it's clear that joints play an important role in predicting the age of a person.
   
